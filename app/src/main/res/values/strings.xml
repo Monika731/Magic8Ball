@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Magic8Ball</string>
+    <string name="response_button">SHAKE SHAKE SHAKE</string>
+    <string name="app_info">App used for fortune telling and seeking advice!!!</string>
+    <string name="response_0"></string>
+    <string name="response_1">It is certain</string>
+    <string name="response_2">It is decidedly so</string>
+    <string name="response_3">Without a doubt</string>
+    <string name="response_4">Yes, definitely</string>
+    <string name="response_5">You may rely on it</string>
+    <string name="response_6">As I see it, yes</string>
+    <string name="response_7">Most likely</string>
+    <string name="response_8">Outlook good</string>
+    <string name="response_9">Yes</string>
+    <string name="response_10">Signs point to yes</string>
+    <string name="response_11">Reply hazy try again</string>
+    <string name="response_12">Ask again later</string>
+    <string name="response_13">Better not tell you now</string>
+    <string name="response_14">Cannot predict now</string>
+    <string name="response_15">Concentrate and ask again</string>
+    <string name="response_16">Don\'t count on it</string>
+    <string name="response_17">My reply is no</string>
+    <string name="response_18">My sources say no</string>
+    <string name="response_19">Outlook not so good</string>
+    <string name="response_20">Very doubtful</string>
+
+</resources>
